@@ -18,7 +18,7 @@ public class SwaggerConfig {
                         "Permite o cadastro, consulta, atualização e exclusão de produtos no banco de dados, oferecendo uma solução simples e eficiente para gerenciar o catálogo de produtos.")
                 .contact(new Contact()
                         .name("Jonatan Rosário")
-                        .url("URL do Projeto (opcional)")
+                        .url("https://github.com/JonatanRosario/api_java")
                         .email("jonatan.2412014@aluno.faculdadedescomplica.com.br")));
     }
 }
